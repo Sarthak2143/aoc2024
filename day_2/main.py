@@ -35,4 +35,5 @@ def part_2():
     
     print(safe)
 
+part_1()
 part_2()
